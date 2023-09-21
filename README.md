@@ -32,7 +32,7 @@ This app requires the following libraries to be installed:
 
 # Screenshots of the app
 
-![img1](https://drive.google.com/file/d/1QgeN4JZGuoEG8VgKuROtflzCCKjYMOV2/view?usp=share_link "Tab 1")
+![img1](https://github.com/Ruhatiya/Data-Visualization-Mini-Project/blob/main/Portfolio%20Dashboard/img1.png?raw=true "Tab 1")
 ![img2](https://drive.google.com/file/d/16S91atH4PCWiDV4vjhCsAlAh0bQSKk6N/view?usp=share_link "Tab 2")
 ![img3](https://drive.google.com/file/d/1oAnU4llyK4w94j0GGcGekKXqrkF_qF0K/view?usp=share_link "Tab 3")
 
